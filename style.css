@@ -4,11 +4,7 @@ table#tlayout {
     border-collapse: separate;
     background: white;
 }
-        #bottomRightScript {
-            position: fixed;
-            bottom: 0;
-            right: 0;
-        }
+
 body {
 	background: white;
 	font-family: Georgia, serif;
